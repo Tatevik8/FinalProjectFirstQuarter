@@ -1,3 +1,3 @@
 # Блок-схема
 Нахождение максимального числа в массиве.
-![картинка](FlowchartMaxNumberInArray.png)
+![картинка](FlowchartMaxNumberInArray.jpeg)
